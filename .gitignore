@@ -1,0 +1,16 @@
+# params
+*.jld
+
+# submit scrips
+*.sbatch
+
+# images or plots
+*.png
+*.pdf
+*.tex
+
+# ipython checkpoints
+.ipynb_checkpoints*
+
+# sbatch
+*.sbatch

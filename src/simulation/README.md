@@ -1,0 +1,1 @@
+This directory contains the code for simulating encounters for evaluation of the policies and coordination table.
